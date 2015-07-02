@@ -1,0 +1,12 @@
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\COMP2007Midterm.dll.config
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\COMP2007Midterm.dll
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\COMP2007Midterm.pdb
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\obj\Debug\COMP2007Midterm.dll
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\obj\Debug\COMP2007Midterm.pdb
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\EntityFramework.dll
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\EntityFramework.SqlServer.dll
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\EntityFramework.xml
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\EntityFramework.SqlServer.xml
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\obj\Debug\COMP2007Midterm.csprojResolveAssemblyReference.cache
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\bob\documents\visual studio 2013\Projects\COMP2007Midterm\COMP2007Midterm\bin\Microsoft.AspNet.FriendlyUrls.xml

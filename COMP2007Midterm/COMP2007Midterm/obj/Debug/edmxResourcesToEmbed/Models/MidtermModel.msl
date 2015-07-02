@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MidtermModelStoreContainer" CdmEntityContainer="MidtermEntities">
+    <EntitySetMapping Name="SchoolCourses">
+      <EntityTypeMapping TypeName="MidtermModel.SchoolCours">
+        <MappingFragment StoreEntitySet="SchoolCourses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CourseID" ColumnName="CourseID" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="CourseDescription_" ColumnName="CourseDescription " />
+          <ScalarProperty Name="CourseCost_" ColumnName="CourseCost " />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
